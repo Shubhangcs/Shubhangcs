@@ -6,9 +6,9 @@
 
 <p align ="center"><img  src="https://cdn.dribbble.com/users/4047034/screenshots/9176275/media/b40e0d6c115634a62ec51c9b68a16f3f.gif" alt="shubhangcs" /> </p>
 
-- 🔭 I’m currently working on **Development project**
+- 🔭 I’m currently working on **Cross-platform development**
 
-- 🌱 I’m currently learning **java , java script , react js**
+- 🌱 I’m currently learning **java , java script , flutter , dart**
 
 - 💬 Ask me about **java**
 
