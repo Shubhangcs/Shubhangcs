@@ -1,10 +1,9 @@
 <h1 align="center">Hey yo 👋 shub here</h1>
 <h3 align="center">DEVELOPER , SOFTWARE DESIGNER</h3>
+<p align="left"> <img src="https://holopin.me/shubhangcs" alt="shubhangcs" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhangacs&label=Profile%20views&color=0e75b6&style=flat" alt="shubhangcs" /> </p>
 
 
-<p align ="center"><img  src="https://cdn.dribbble.com/users/4047034/screenshots/9176275/media/b40e0d6c115634a62ec51c9b68a16f3f.gif" alt="shubhangcs" /> </p>
 
 - 🔭 I’m currently working on **Cross-platform development**
 
