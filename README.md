@@ -3,7 +3,7 @@
 <h3 align="center">Cross Platform Developer と Designer</h3>
 <p align="left"> <img src="https://holopin.me/shubhangcs" alt="shubhangcs" /> </p>
 
-
+<center><img src="https://media.badgr.com/uploads/badges/assertion-t_8zXunZSa6OOhSeowUarQ.png"></center>
 
 
 - 🔭 I’m currently working on **Cross-platform development**
