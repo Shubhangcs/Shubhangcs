@@ -1,5 +1,5 @@
 <img src="https://preview.redd.it/05uhd2ihjs671.gif?width=1920&auto=webp&s=2cfe2e79dafaccd849f4d2b7f2622ea565c748af" alt="shubhangacs" />
-<h1 align="center">Hii Everyone 👋 シュバン Here</h1>
+<h1 align="center">Hii Everyone 👋 シュバンガ Here</h1>
 <h3 align="center">Cross Platform Developer と Designer</h3>
 <p align="left"> <img src="https://holopin.me/shubhangcs" alt="shubhangcs" /> </p>
 
