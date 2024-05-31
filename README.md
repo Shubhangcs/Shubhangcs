@@ -6,11 +6,11 @@
 <center><img src="https://media.badgr.com/uploads/badges/assertion-t_8zXunZSa6OOhSeowUarQ.png"></center>
 
 
-- 🔭 I’m currently working on **Cross-platform development**
+- 🔭 I’m currently working on **Cross-platform development and Go Programmar**
 
-- 🌱 I’m currently learning **java , java script , flutter , dart**
+- 🌱 I’m currently learning **Go , Svelte , Flutter , Dart**
 
-- 💬 Ask me about **java**
+- 💬 Ask me about **GoLang**
 
 - 📫 How to reach me **cshubhanga@gmail.com**
 <center>
