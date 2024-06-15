@@ -13,21 +13,6 @@
 - 💬 Ask me about **GoLang**
 
 - 📫 How to reach me **cshubhanga@gmail.com**
-<center>
-<table>
-  <tr>
-    <th colspan = 2><img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif"></th>
-  </tr>
-  <tr>
-    <th><img src="https://media.tenor.com/0abv5GHijYIAAAAM/microsoft-four-windows.gif" width= 350 height = 300></th>
-    <th><img src="https://ivibetech.in/wp-content/uploads/2022/09/icon_transition_2__gif-1.gif" width= 400 height = 300></th>
-  </tr>
-  <tr>
-    <th><img src="https://cdn.dribbble.com/users/94656/screenshots/1141726/terminal2.gif" width= 400 height = 300></th>
-    <th><img src="https://miro.medium.com/v2/resize:fit:1400/0*fZ7YQUQHvU4Lqh8W.gif" width= 400 height = 300></th>
-  </tr>
-</table>
-</center>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/code_with__shubh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code_with__shubh_" height="30" width="40" /></a>
