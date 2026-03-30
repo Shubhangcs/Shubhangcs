@@ -1,6 +1,6 @@
 <div align="center">
 
-# Shubhang CS
+# Shubhanga CS
 
 **Cross-Platform Developer · Backend Engineer · Designer**
 
