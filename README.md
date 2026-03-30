@@ -1,26 +1,90 @@
-<img src="https://preview.redd.it/05uhd2ihjs671.gif?width=1920&auto=webp&s=2cfe2e79dafaccd849f4d2b7f2622ea565c748af" alt="shubhangacs" />
-<h1 align="center">Hii Everyone 👋 シュバンガ Here</h1>
-<h3 align="center">Cross Platform Developer と Designer</h3>
-<p align="left"> <img src="https://holopin.me/shubhangcs" alt="shubhangcs" /> </p>
+<div align="center">
 
-<center><img src="https://media.badgr.com/uploads/badges/assertion-t_8zXunZSa6OOhSeowUarQ.png"></center>
+# Shubhang CS
 
+**Cross-Platform Developer · Backend Engineer · Designer**
 
-- 🔭 I’m currently working on **Cross-platform development and Go Programmar**
+Building scalable backends and cross-platform applications.<br/>
+Passionate about distributed systems, real-time communication, and clean architecture.
 
-- 🌱 I’m currently learning **Go , Svelte , Flutter , Dart**
+<br/>
 
-- 💬 Ask me about **GoLang**
+[![Email](https://img.shields.io/badge/Email-developer.shubhangcs%40gmail.com-black?style=flat-square&logo=gmail&logoColor=white)](mailto:developer.shubhangcs@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white)](https://shubhangacs.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shubhang-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhang-cs-595858227/)
+[![Instagram](https://img.shields.io/badge/Instagram-shubhangacs-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/shubhangacs/)
 
-- 📫 How to reach me **developer.shubhangcs@gmail.com**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/code_with__shubh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code_with__shubh_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shubhang-cs-595858227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhang-cs-595858227/" height="30" width="40" /></a>
-  <a href="https://www.hackerearth.com/https://www.hackerearth.com/@cshubhanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@cshubhanga" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/https://www.hackerrank.com/cshubhanga?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/cshubhanga?hr_r=1" height="30" width="40" /></a>
+</div>
+
+---
+
+## About Me
+
+- Currently working on **cross-platform development** and **Go backends**
+- Exploring **distributed systems**, **real-time messaging**, and **cloud-native patterns**
+- Ask me about **Go · Flutter · Backend Architecture · DevOps**
+- Passionate about clean APIs, fast systems, and great developer experience
+
+---
+
+## Tech Stack
+
+**Mobile & Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,svelte" height="40" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: flex; flex-direction: row; justify-content: space-evenly; align-items: space-evenly;"> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> </p>
+**Backend & Languages**
 
+<p>
+  <img src="https://skillicons.dev/icons?i=go,nodejs" height="40" />
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" height="40" />
+</p>
+
+**Messaging & Streaming**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" title="RabbitMQ" />
+</p>
+
+**DevOps & Infrastructure**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,nginx" height="40" />
+</p>
+
+**Cloud Platforms**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,digitalocean" height="40" />
+</p>
+
+**Tools & OS**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github" height="40" />
+</p>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=shubhangcs&theme=tokyonight&hide_border=true" height="165" />
+</div>
+
+---
+
+<div align="center">
+
+Open to interesting projects, collaborations, and new opportunities.
+
+![Profile Views](https://komarev.com/ghpvc/?username=shubhangcs&color=blue&style=flat-square)
+
+</div>
